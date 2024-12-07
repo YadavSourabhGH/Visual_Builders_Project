@@ -44,7 +44,7 @@ The chat page allows users to chat with a legal chatbot for basic legal queries.
 
 ### 6. User Login Page
 
-![User Login Page](ScreenShots/user_login.png)
+![User Login Page](ScreenShots/userlogin.png)
 
 The user login page allows users to sign in to their accounts. It includes fields for email and password, as well as options for signing in with Google.
 
