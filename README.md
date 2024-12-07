@@ -1,10 +1,21 @@
 # Online Lawyer Consultation Website
-## Website Url: https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?show=true
-## User Login: https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?show=true&page=page2
-## Chat Bot: https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?page=page3&show=true
-## Advocate List: https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?show=true
-## Advocate Login: https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?page=page2&show=true
-## Blog: https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?page=page3&show=true
+## Project Links
+
+### Website
+- **Main Page:** [Visit Website](https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?show=true)
+
+### User Section
+- **Login Page:** [User Login](https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?show=true&page=page2)
+
+### Chat Section
+- **Chat Bot:** [Chat Bot](https://www.loopple.com/preview/project-VU0ne360Trh1FEIL3A1Nap6D6MD34IBc79U?page=page3&show=true)
+
+### Advocate Section
+- **Advocate List:** [Advocate List](https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?show=true)
+- **Advocate Login:** [Advocate Login](https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?page=page2&show=true)
+
+### Blog Section
+- **Blog Page:** [Blog](https://www.loopple.com/preview/project-HhSDP7RkRR7SOkWZpVUeaAQ66V22V9Am1no?page=page3&show=true)
 
 This project is an online lawyer consultation website built using the no-code platform Loopple. The website allows users to connect with lawyers, schedule appointments, and access various legal resources.
 
