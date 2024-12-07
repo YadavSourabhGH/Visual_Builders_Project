@@ -10,7 +10,7 @@ The project has the following structure:
 
 ### 1. Home Page
 
-![Home Page](ScreenShots/home_page.png)
+![Home Page](ScreenShots/index_main.png)
 
 The home page provides an overview of the services offered by the website. It includes sections for connecting with lawyers, booking appointments, and accessing legal resources.
 
@@ -22,19 +22,23 @@ The lawyer login page allows lawyers to sign in to their accounts. It includes f
 
 ### 3. Lawyer Profile Page
 
-![Lawyer Profile Page](ScreenShots/lawyer_profile.png)
+![Lawyer Profile Page](ScreenShots/lawyer1.png)
+![Lawyer Profile Page](ScreenShots/lawyer1_full.png)
+![Lawyer Profile Page](ScreenShots/lawyer2.png)
 
 The lawyer profile page displays information about individual lawyers, including their experience, languages spoken, and contact details. Users can book a free call or chat appointment with the lawyer.
 
 ### 4. Blog Page
 
-![Blog Page](ScreenShots/blog_page.png)
+![Blog Page](ScreenShots/blog.png)
+![Blog Page](ScreenShots/blog2.png)
+
 
 The blog page features articles on various legal topics. Each blog post includes an image, title, and a brief description.
 
 ### 5. Chat Page
 
-![Chat Page](ScreenShots/chat_page.png)
+![Chat Page](ScreenShots/lawbot.png)
 
 The chat page allows users to chat with a legal chatbot for basic legal queries. It also provides options for connecting with lawyers and scheduling appointments.
 
